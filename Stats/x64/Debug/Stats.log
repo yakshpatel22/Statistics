@@ -1,0 +1,19 @@
+﻿  Stats.c
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(16,1): warning C4005: 'FILENAME': macro redefinition
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(15): message : see previous definition of 'FILENAME'
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(17,1): warning C4005: 'FILENAME': macro redefinition
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(16): message : see previous definition of 'FILENAME'
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(182,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(191,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(196,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(279,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(387,9): warning C4477: 'printf' : format string '%10d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(387,9): message : consider using '%lld' in the format string
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(387,9): message : consider using '%Id' in the format string
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(387,9): message : consider using '%I64d' in the format string
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(448,14): warning C4013: 'isdigit' undefined; assuming extern returning int
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(482,15): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[100]'
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(482,11): warning C4024: 'strcpy': different types for formal and actual parameter 1
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(488,32): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\Stats\Stats.c(456): warning C4715: 'getValue': not all control paths return a value
+  Stats.vcxproj -> C:\Users\YakshPatel\Desktop\BACKUP\$$Visual Studios Term3\Stats\x64\Debug\Stats.exe
